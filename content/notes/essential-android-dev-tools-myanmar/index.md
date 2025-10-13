@@ -1,6 +1,6 @@
 ---
 title: "Essential Tools for Android Developers in Myanmar"
-date: 2025-10-15T10:00:00+06:30
+date: 2025-10-13T13:30:13+06:30
 draft: false # Make sure this is 'false'
 description: "A comprehensive guide to the free and essential tools every Android developer in Myanmar should use, from IDEs to version control and design." # Add a compelling description for SEO
 tags: ["Android", "Tools", "Myanmar", "Career"] # Add relevant tags
