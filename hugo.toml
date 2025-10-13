@@ -1,3 +1,36 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://minthihaaung.dev/"
+languageCode = "en-us"
+title = "Thiha's Tech Notes"
+theme = 'PaperMod'
+
+[params]
+  author = "Min Thiha Aung"
+  description = "The personal website and tech notes of Min Thiha Aung, an Android Developer based in Yangon, focusing on practical skills for the Myanmar market."
+  defaultTheme = "auto" # Can be "light", "dark", or "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+  [params.homeInfoParams]
+  Title = "Hello, I'm Min Thiha Aung 👨🏻‍💻"
+  Content = "Hi there, and welcome. I absolutely enjoy the challenge of building mobile apps and bringing ideas to life on a screen. This site is my space to share what I'm learning and post my tech notes along the way."
+
+[[params.socialIcons]]
+  name = "facebook"
+  url = "https://www.facebook.com/minthihaaung.mm"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/min-thiha-aung-89b14b240/"
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About Me"
+  url = "/about/"
+  weight = 20
