@@ -3,7 +3,7 @@ ShowReadingTime: false
 hideAuthor: true
 ---
 
-{{< figure align="center" class="profile-image-container" src="/my-profile.jpeg" alt="This is me!" >}}
+{{< figure align="center" class="profile-image-container figure-margin-bottom" src="/my-profile.jpeg" alt="This is me!" >}}
 
 > Hello there! This is a space for my thoughts, experiences, and things I'm passionate about.
 
