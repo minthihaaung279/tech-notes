@@ -20,7 +20,7 @@
       <link>http://localhost:1313/notes/my-first-note/</link>
       <pubDate>Mon, 13 Oct 2025 13:30:13 +0630</pubDate>
       <guid>http://localhost:1313/notes/my-first-note/</guid>
-      <description>A comprehensive guide to the free and essential tools every Android developer in Myanmar should use, from IDEs to version control and design.</description>
+      <description>Markdown is a lightweight markup language that uses simple, plain-text syntax to add formatting to text. Created by John Gruber in 2004, it&amp;#39;s designed to be easy to read and write in its raw form and converts directly to HTML. It is widely used for creating README files, writing documentation, and formatting online content.</description>
     </item>
     <item>
       <title></title>
@@ -28,14 +28,39 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;figure class=&#34;align-center profile-image-container figure-margin-bottom&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/my-profile.jpeg#center&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/about_me.jpeg#center&#34;
          alt=&#34;This is me!&#34;/&gt; 
 &lt;/figure&gt;
 
+&lt;h1 id=&#34;hello-im-min-thiha-aung-&#34;&gt;Hello, I&amp;rsquo;m Min Thiha Aung 🤖&lt;/h1&gt;
+&lt;h3 id=&#34;mobile-developer&#34;&gt;Mobile Developer&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Hello there! This is a space for my thoughts, experiences, and things I&amp;rsquo;m passionate about.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;My name is &lt;strong&gt;Min Thiha Aung&lt;/strong&gt;, and I&amp;rsquo;m a &lt;em&gt;Mobile Developer&lt;/em&gt;. I love building beautiful and functional applications.&lt;/p&gt;
-&lt;p&gt;This is some dummy text. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+&lt;p&gt;&amp;ldquo;Act with purpose, progress with passion.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;My passion as a software engineer is in the creative process of building—translating complex ideas into clean, functional code. I am a firm believer that knowledge multiplies when shared.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
+&lt;p&gt;Here are the main services or skills I specialize in&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-kotlin&#34; data-lang=&#34;kotlin&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// My professional capabilities
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;object&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;MySkillSet&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;val&lt;/span&gt; mobile = listOf(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;🤖 Android Development&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;⚡️ Flutter Development&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    )
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;val&lt;/span&gt; web = listOf(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;🌐 Frontend (React)&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;☁️ Backend (Laravel, Node.js)&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    )
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;fun&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;getFullStack&lt;/span&gt;(): List&amp;lt;String&amp;gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; mobile + web
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+&lt;h3 id=&#34;android-developer-nov-2023---present&#34;&gt;Android Developer (Nov 2023 - Present)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.onenex.co/&#34;&gt;Onenex&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

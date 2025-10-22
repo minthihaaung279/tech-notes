@@ -19,7 +19,7 @@ As an Android developer in Myanmar, having the right tools can significantly boo
 
 The official IDE from Google is indispensable. It comes packed with everything you need, from a powerful code editor to an emulator and profilers.
 
-![Android Studio IDE Screenshot](android-studio-screenshot.jpg "A screenshot of Android Studio's interface")
+![Android Studio IDE Screenshot](ui.png) "A screenshot of Android Studio's interface")
 
 _Why it's essential:_
 
@@ -31,14 +31,8 @@ _Why it's essential:_
 
 Every professional developer needs to master version control. Git allows you to track changes, collaborate, and revert to previous states. GitHub is the best platform to host your Git repositories.
 
-![GitHub Logo](github-logo.jpg "The official GitHub logo")
-
 Learning Git early will save you countless headaches and is a must-have for any job application.
 
 ## 3. Figma: For UI/UX Design
 
 Even if you're not a designer, understanding basic UI/UX principles and using a tool like Figma can help you visualize your app ideas.
-
----
-
-# And so on... continue with your content

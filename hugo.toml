@@ -12,7 +12,7 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
 
   [params.homeInfoParams]
-  Title = "Hello, I'm Min Thiha Aung 👨🏻‍💻"
+  Title = "Mingalarbar ✨"
   Content = "Hi there, and welcome. I absolutely enjoy the challenge of building mobile apps and bringing ideas to life on a screen. This site is my space to share what I'm learning and post my tech notes along the way."
 
 [[params.socialIcons]]
