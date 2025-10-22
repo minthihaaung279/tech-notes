@@ -5,7 +5,7 @@ hideAuthor: true
 
 {{< figure align="center" class="profile-image-container figure-margin-bottom" src="/about_me.jpeg" alt="This is me!" >}}
 
-# Hello, I'm Min Thiha Aung 🤖
+# Hi, I'm Min Thiha Aung 🤖
 
 ### Mobile Developer
 
