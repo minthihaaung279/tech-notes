@@ -57,3 +57,21 @@ object MySkillSet {
 **[Recycle Myanmar](https://www.facebook.com/p/Recycle-Myanmar-100057362593821/)**
 
 - Applied and followed structured architecture and design.
+- Built and maintained the Android application for a local recycling service, enabling users to schedule pick-ups and track recycling points.
+
+---
+
+## What I Can Do For You
+
+Whether you need a polished mobile app or a robust web solution, here is a snapshot of the services I offer:
+
+| Service | Details |
+|---|---|
+| 🤖 **Android Development** | Native Android apps using Kotlin, Jetpack Compose, MVVM, and Clean Architecture |
+| ⚡️ **Flutter Development** | Cross-platform mobile apps for Android and iOS with a single codebase |
+| 🌐 **Frontend Development** | Responsive web interfaces built with React |
+| ☁️ **Backend Development** | RESTful APIs and server-side logic using Laravel or Node.js |
+| 🏗️ **Architecture & Refactoring** | Code reviews, modularisation, and refactoring legacy projects to modern standards |
+| 🔌 **Third-party Integrations** | Payment gateways, video calling (Twilio, GetStream), push notifications, and more |
+
+Feel free to reach out via the social links below if you would like to collaborate!
